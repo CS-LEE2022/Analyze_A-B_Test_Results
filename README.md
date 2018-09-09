@@ -61,7 +61,7 @@ Through mathematics calculation to find out the conversion rates difference betw
 Further examine with an A/B test to see if the results match arithmetic analyze.
 
 
-**_Step Three_** - Analyze
+**_Step Three_** - Country
 
 
 Investigate the impact of countries on P-value and hypothesis.
