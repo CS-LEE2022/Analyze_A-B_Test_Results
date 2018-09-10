@@ -14,7 +14,7 @@ A/B tests are very commonly performed by data analysts and data scientists. For 
 
 ![alt text](https://github.com/Shilin0806/Analyze_A-B_Test_Results/blob/master/A_B_test.jpg)
 
-Image is adapted from a copyright-free website: https://www.pexels.com/royalty-free-images/.
+(Image is adapted from a copyright-free website: https://www.pexels.com/royalty-free-images/.)
 
 
 The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Current work is to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
